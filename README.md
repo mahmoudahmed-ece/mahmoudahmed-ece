@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Mahmoud Ahmed — Embedded Systems" width="100%">
 </p>
-<p align="right"><sub>Banner photo: Lewis Hamilton</sub></p>
+<p align="right"><sub>Lewis Hamilton</sub></p>
 
 ## About Me
 
